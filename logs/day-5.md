@@ -45,6 +45,10 @@ We can write shell scripting using Linux, boto3 or many other ways.
 - Logging is crucial for debugging and monitoring scripts
 - Crontab is used for scheduling tasks
 
+## GitHub shell script examples
+
+- [Shell Scripting Examples](https://github.com/ruanyf/simple-bash-scripts?tab=readme-ov-file)
+
 ## Interview Questions and Answers
 
 1. What is your understanding of shell scripting? How to use in day to day uses?
