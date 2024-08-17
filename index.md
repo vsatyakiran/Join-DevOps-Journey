@@ -22,14 +22,14 @@ title: Home
       <p class="excerpt">Explored the basics of containerization with Docker, created my first Dockerfile, and ran a containerized application...</p>
     </li>
     <li>
-      <h3><a href="./logs/day-1.md">Day 1: Getting Started</a></h3>
+      <h3><a href="/logs/day-1.md">Day 1: Getting Started</a></h3>
       <p class="excerpt">Set up this GitHub repository, researched core DevOps concepts, and installed essential tools...</p>
     </li>
   </ul>
 </div>
 
 
-<a href="./archive.md" class="btn">View All Entries</a>
+<a href="archive.md" class="btn">View All Entries</a>
 
 
 ---
