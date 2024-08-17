@@ -7,12 +7,11 @@ title: Archive
 
 <div class="archive-list">
   <ul>
-    <li><strong>Day 3:</strong> <a href="./logs/day-3.md">Mastering Git Workflows</a></li>
-    <li><strong>Day 2:</strong> <a href="./logs/day-2.md">Introduction to Docker</a></li>
-    <li><strong>Day 1:</strong> <a href="./logs/day-1.md">Getting Started</a></li>
+    <li><strong>Day 4:</strong> <a href="./logs/day-4.html">Introduction to Shell Scripting</a></li>
+    <li><strong>Day 3:</strong> <a href="./logs/day-3.html">Linux Commands Cheatsheet</a></li>
+    <li><strong>Day 2:</strong> <a href="./logs/day-2.html">Introduction to Docker</a></li>
+    <li><strong>Day 1:</strong> <a href="./logs/day-1.html">Getting Started</a></li>
   </ul>
 </div>
 
-<div class="cta">
-  <a href="./index.md" class="btn">Back to Home</a>
-</div>
+[Back to Home](./index.html){: .btn}

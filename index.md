@@ -14,23 +14,25 @@ title: Home
 <div class="post-list">
   <ul>
     <li>
-      <h3><a href="./logs/day-3.md">Day 3: Mastering Git Workflows</a></h3>
-      <p class="excerpt">Today, I deep-dived into advanced Git workflows, including branching strategies and merge conflict resolution...</p>
+      <h3><a href="./logs/day-4.html">Day 4: Introduction to Shell Scripting</a></h3>
+      <p class="excerpt">Explored shell scripting fundamentals, learned about debugging techniques, and practiced with common Linux commands...</p>
     </li>
     <li>
-      <h3><a href="./logs/day-2.md">Day 2: Introduction to Docker</a></h3>
+      <h3><a href="./logs/day-3.html">Day 3: Linux Commands Cheatsheet</a></h3>
+      <p class="excerpt">Compiled a comprehensive list of essential Linux commands and their usage in DevOps contexts...</p>
+    </li>
+    <li>
+      <h3><a href="./logs/day-2.html">Day 2: Introduction to Docker</a></h3>
       <p class="excerpt">Explored the basics of containerization with Docker, created my first Dockerfile, and ran a containerized application...</p>
     </li>
     <li>
-      <h3><a href="./logs/day-1.md">Day 1: Getting Started</a></h3>
+      <h3><a href="./logs/day-1.html">Day 1: Getting Started</a></h3>
       <p class="excerpt">Set up this GitHub repository, researched core DevOps concepts, and installed essential tools...</p>
     </li>
   </ul>
 </div>
 
-
-<a href="./allfiles.md" class="btn">View All Entries</a>
-
+[View All Entries](./allfiles.html){: .btn}
 
 <footer>
   <p>Follow my progress on <a href="https://github.com/yourusername/devops-learning-journey">GitHub</a></p>
