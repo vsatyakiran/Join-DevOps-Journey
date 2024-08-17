@@ -29,10 +29,8 @@ title: Home
 </div>
 
 
-<a href="allfiles.md" class="btn">View All Entries</a>
+<a href="./allfiles.md" class="btn">View All Entries</a>
 
-
----
 
 <footer>
   <p>Follow my progress on <a href="https://github.com/yourusername/devops-learning-journey">GitHub</a></p>
