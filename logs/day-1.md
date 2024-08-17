@@ -52,6 +52,6 @@ Today marks the beginning of my DevOps learning journey. Here's what I accomplis
 </div>
 
 <div class="navigation">
-  <a href="../index.md" class="btn">Back to Home</a>
-  <a href="./day-2.md" class="btn">Next Day</a>
+  <a href="../index.html">Back to Home</a>
+  <a href="./day-2.html">Next Day</a>
 </div>

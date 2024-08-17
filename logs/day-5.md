@@ -182,7 +182,7 @@ We can write shell scripting using Linux, boto3 or many other ways.
 - Learn about shell scripting security and secure coding practices.
 
 <div class="navigation">
-  <a href="../logs/day-3.md" class="btn">Previous Day</a>
-  <a href="../index.md" class="btn">Back to Home</a>
-  <a href="../logs/day-5.md" class="btn">Next Day</a>
+  <a href="../logs/day-3.html">Previous Day</a>
+  <a href="../index.html">Back to Home</a>
+  <a href="../logs/day-5.html" >Next Day</a>
 </div>

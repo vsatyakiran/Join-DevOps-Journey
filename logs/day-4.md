@@ -54,6 +54,6 @@ Linux is an open-source operating system kernel that is used in a wide variety o
 - Start learning about shell scripting to automate common tasks.
 
 
-  <a href="../index.html" class="btn">Back to Home</a>
-  <a href="./day-4.html" class="btn">Next Day</a>
-  <a href="../allfiles.html" class="btn">View All Entries</a>
+  <a href="../index.html" >Back to Home</a>
+  <a href="./day-4.html" >Next Day</a>
+  <a href="../allfiles.html">View All Entries</a>
