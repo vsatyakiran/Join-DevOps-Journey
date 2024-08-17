@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Day 3 - Linux Commands Cheatsheet
+title: Day 4 - Linux Commands 
 ---
 
-# Day 3: Linux Commands 
+# Day 4: Linux Commands 
 
 <div class="date">August 12, 2024</div>
 
@@ -53,7 +53,7 @@ Linux is an open-source operating system kernel that is used in a wide variety o
 - Explore more advanced Linux commands and their applications in DevOps.
 - Start learning about shell scripting to automate common tasks.
 
-<div class="navigation">
-  <a href="../index.md" class="btn">Back to Home</a>
-  <a href="./day-4.md" class="btn">Next Day</a>
-</div>
+
+  <a href="../index.html" class="btn">Back to Home</a>
+  <a href="./day-4.html" class="btn">Next Day</a>
+  <a href="../allfiles.html" class="btn">View All Entries</a>
