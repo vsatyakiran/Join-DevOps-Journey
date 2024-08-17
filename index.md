@@ -28,9 +28,9 @@ title: Home
   </ul>
 </div>
 
-<div class="cta">
-  <a href="./archive.md" class="btn">View All Entries</a>
-</div>
+
+<a href="./archive.md" class="btn">View All Entries</a>
+
 
 ---
 
