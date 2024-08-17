@@ -29,7 +29,7 @@ title: Home
 </div>
 
 
-<a href="archive.md" class="btn">View All Entries</a>
+<a href="allfiles.md" class="btn">View All Entries</a>
 
 
 ---
