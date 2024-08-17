@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Day 4 - Introduction to Shell Scripting
+title: Day 5 - Introduction to Shell Scripting
 ---
 
-# Day 4: Introduction to Shell Scripting
+# Day 5: Introduction to Shell Scripting
 
 <div class="date">August 13, 2024</div>
 

@@ -33,7 +33,7 @@ title: Home
 </div>
 
 
-<div class=>
+<div class="navigation">
   <a href="./allfiles.html">View All Entries</a>
 </div>
 
