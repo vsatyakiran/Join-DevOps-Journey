@@ -34,6 +34,8 @@ title: Home
 
 [View All Entries](./allfiles.html){: .btn}
 
+<a href="./allfiles.html">View All Entries</a>
+
 <footer>
   <p>Follow my progress on <a href="https://github.com/yourusername/devops-learning-journey">GitHub</a></p>
 </footer>
