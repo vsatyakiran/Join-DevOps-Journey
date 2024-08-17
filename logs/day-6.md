@@ -139,7 +139,7 @@ git pull is used to fetch and download content from a remote repository and imme
 Understanding Git and GitHub is essential for modern software development. By mastering version control systems, you can collaborate effectively with other developers, track changes to your codebase, and manage complex projects with ease.
 
 <div class="navigation"> 
-    <a href="day-5.html"> << Prev: Shell Scripting </a> 
-    <a href="../allfiles.md"> All Logs </a>
+    <a href="day-5.html"> << Prev: Shell Scripting </a> &nbsp &nbsp &nbsp &nbsp
+    <a href="../allfiles.html"> All Logs </a> &nbsp &nbsp &nbsp &nbsp
     <a href="day-7.html"> Next:  >></a>
 </div>
