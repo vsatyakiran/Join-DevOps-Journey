@@ -56,5 +56,5 @@ Linux is an open-source operating system kernel that is used in a wide variety o
 
   <a href="../index.html" >Back to Home</a>
   <a href="../allfiles.html">View All Entries</a>
-  <a href="./day-4.html" >Next Day</a>
+  <a href="./day-5.html" >Next Day</a>
   

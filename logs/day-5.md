@@ -184,5 +184,5 @@ We can write shell scripting using Linux, boto3 or many other ways.
 <div class="navigation">
   <a href="../logs/day-3.html">Previous Day</a>
   <a href="../index.html">Back to Home</a>
-  <a href="../logs/day-5.html" >Next Day</a>
+  <a href="../logs/day-6.html" >Next Day</a>
 </div>

@@ -14,20 +14,24 @@ title: Home
 <div class="post-list">
   <ul>
     <li>
-      <h3><a href="./logs/day-4.html">Day 4: Introduction to Shell Scripting</a></h3>
-      <p class="excerpt">Explored shell scripting fundamentals, learned about debugging techniques, and practiced with common Linux commands...</p>
+      <h3> Day 7: AWS Services for DevOps </h3>
+      <p> Today, I explored various AWS services that are essential for DevOps practices. Here's a summary of my experience:</p>
+      <a href="./logs/day-7.html">Read More</a>
     </li>
     <li>
-      <h3><a href="./logs/day-3.html">Day 3: Linux Commands Cheatsheet</a></h3>
-      <p class="excerpt">Compiled a comprehensive list of essential Linux commands and their usage in DevOps contexts...</p>
+      <h3> Day 6: Git and GitHub </h3>
+      <p> I dived into the world of version control with Git and GitHub. Here's a summary of what I learned:</p>
+      <a href="./logs/day-6.html">Read More</a>
     </li>
     <li>
-      <h3><a href="./logs/day-2.html">Day 2: Introduction to Docker</a></h3>
-      <p class="excerpt">Explored the basics of containerization with Docker, created my first Dockerfile, and ran a containerized application...</p>
+      <h3> Day 5: Introduction to Shell Scripting </h3>
+      <p> Today, I delved into the world of shell scripting and learned how to automate tasks using bash scripts. Here's a summary of my experience:</p>
+      <a href="./logs/day-5.html">Read More</a>
     </li>
     <li>
-      <h3><a href="./logs/day-1.html">Day 1: Getting Started</a></h3>
-      <p class="excerpt">Set up this GitHub repository, researched core DevOps concepts, and installed essential tools...</p>
+      <h3> Day 4: Linux Commands </h3>
+      <p> Today, I focused on essential Linux commands and their usage. Here's a summary of what I learned:</p>
+      <a href="./logs/day-4.html">Read More</a>  
     </li>
   </ul>
 </div>
