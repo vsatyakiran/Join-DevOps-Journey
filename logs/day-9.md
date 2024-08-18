@@ -13,7 +13,7 @@ Today, I learned about Ansible, a configuration management tool that allows you 
 
 
 <div class="navigation">
-    <a href="day-8.html">AWS services for devops</a>
+    <a href="day-8.html">First APP in AWS</a>
     <a href="../allfiles.html"> All Files </a>
     <a href="day-10.html">Terraform</a>
 </div>
