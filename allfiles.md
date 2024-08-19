@@ -7,6 +7,8 @@ title: Archive
 
 <div class="archive-list">
   <ul>
+    <li><strong>Day 9:</strong> <a href="./logs/day-9.html">Config Management with Ansible</a></li>
+    <li><strong>Day 8:</strong> <a href="./logs/day-8.html">Deploy and expose your first app to AWS</a></li>
     <li><strong>Day 7:</strong> <a href="./logs/day-7.html">Aws Services for DevOps</a></li>
     <li><strong>Day 6:</strong> <a href="./logs/day-6.html">Git and GitHub</a></li>
     <li><strong>Day 5:</strong> <a href="./logs/day-5.html">Introduction to Shell Scripting</a></li>
