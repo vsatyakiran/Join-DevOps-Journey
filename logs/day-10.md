@@ -35,6 +35,49 @@ Terraform uses HashiCorp Configuration Language (HCL) to define infrastructure c
 
 - **Resources:** Resources are the building blocks of infrastructure in Terraform. They represent the various components of your infrastructure (e.g., virtual machines, networks, databases).
 
+# Terraform Workflow
+
+The typical workflow for using Terraform involves the following steps:
+
+1. **Define Infrastructure:** Write Terraform configuration files (.tf) to define the desired state of your infrastructure.
+
+2. **Initialize Terraform:** Run `terraform init` to initialize the working directory and download the necessary providers.
+
+3. **Plan Infrastructure:** Run `terraform plan` to create an execution plan that shows what Terraform will do when you apply the configuration.
+
+4. **Apply Infrastructure:** Run `terraform apply` to apply the configuration and provision the infrastructure.
+
+5. **Destroy Infrastructure:** Run `terraform destroy` to tear down the infrastructure and clean up resources.
+
+## Example Terraform Configuration
+
+Here's an example of a simple Terraform configuration that creates an AWS EC2 instance:
+
+```hcl
+provider "aws" {
+  region = "us-west-2"
+}
+
+resource "aws_instance" "example" {
+  ami           = "ami-0c55b159cbfafe1f0"
+  instance_type = "t2.micro"
+}
+```
+
+# Terraform vs Anisible vs Vagrant
+
+- **Terraform:** Terraform is an Infrastructure as Code tool that focuses on provisioning and managing infrastructure resources across various cloud providers and services.
+
+- **Ansible:** Ansible is a configuration management tool that automates software provisioning, configuration management, and application deployment. It is more focused on configuration management rather than infrastructure provisioning.
+
+- **Vagrant:** Vagrant is a tool for building and managing virtual machine environments in a single workflow. It is used for creating development environments that closely mirror production environments.
+
+
+
+
+
+
+
 <div class="navigation">
     <a href="./day-9.html">← Day 9: Config Management with Ansible</a>
   <a href="../allfiles.html">Back to Home</a>
