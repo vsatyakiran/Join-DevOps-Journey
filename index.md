@@ -14,6 +14,11 @@ title: Home
 <div class="post-list">
   <ul>
     <li>
+      <h3> <a href="./logs/day-11.html">Day 11: CI/CD Pipelines and Tools</a> </h3>
+      <p> Today, I explored Continuous Integration and Continuous Deployment (CI/CD) pipelines and the tools used to automate the software delivery process. Here's a summary of what I learned:</p>
+      <a href="./logs/day-11.html">Read More</a>
+    </li>
+    <li>
       <h3> <a href="./logs/day-10.html">Day 10: Infrastructure as Code with Terraform</a> </h3>
       <p> Today, I delved into the world of Infrastructure as Code (IaC) with Terraform. Here's a summary of what I learned:</p>
       <a href="./logs/day-10.html">Read More</a>

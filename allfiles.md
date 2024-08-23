@@ -7,6 +7,7 @@ title: Archive
 
 <div class="archive-list">
   <ul>
+    <li><strong>Day 11:</strong> <a href="./logs/day-11.html">CI/CD Pipelines and Tools</a></li>
     <li><strong>Day 10:</strong> <a href="./logs/day-10.html">Infrastructure as Code with Terraform</a></li>
     <li><strong>Day 9:</strong> <a href="./logs/day-9.html">Config Management with Ansible</a></li>
     <li><strong>Day 8:</strong> <a href="./logs/day-8.html">Deploy and expose your first app to AWS</a></li>
