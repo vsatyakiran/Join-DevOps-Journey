@@ -14,6 +14,21 @@ title: Home
 <div class="post-list">
   <ul>
     <li>
+      <h3> <a href="./logs/day-14.html">Day 14: Self-hosted Runners in GitHub Actions</a> </h3>
+      <p> Today, I explored self-hosted runners in GitHub Actions and learned how to set up and use them in my CI/CD workflows. Self-hosted runners allow developers to run workflows on their own infrastructure, providing more control and customization over the execution environment. Here's a summary of what I learned:</p>
+      <a href="./logs/day-14.html">Read More</a>
+    </li>
+    <li>
+      <h3> <a href="./logs/day-13.html">Day 13: GitHub Actions</a> </h3>
+      <p> Today, I explored GitHub Actions, a CI/CD service provided by GitHub that allows developers to automate workflows directly from their GitHub repositories. GitHub Actions enables developers to build, test, and deploy code changes using custom workflows defined in YAML files. Here's a summary of what I learned:</p>
+      <a href="./logs/day-13.html">Read More</a>
+    </li>
+    <li>
+      <h3> <a href="./logs/day-12.html">Day 12: Continuous Integration and Continuous Deployment</a> </h3>
+      <p> Today, I delved into Continuous Integration and Continuous Deployment (CI/CD) practices and their importance in modern software development. Here's a summary of my experience:</p>
+      <a href="./logs/day-12.html">Read More</a>
+    </li>
+    <li>
       <h3> <a href="./logs/day-11.html">Day 11: CI/CD Pipelines and Tools</a> </h3>
       <p> Today, I explored Continuous Integration and Continuous Deployment (CI/CD) pipelines and the tools used to automate the software delivery process. Here's a summary of what I learned:</p>
       <a href="./logs/day-11.html">Read More</a>
@@ -28,17 +43,6 @@ title: Home
       <p> Today, I learned about Ansible, a configuration management tool that allows you to automate the provisioning, configuration, and deployment of infrastructure and applications. Here's a summary of my experience:</p>
       <a href="./logs/day-9.html">Read More</a>
     </li>
-    <li>
-      <h3> <a href="./logs/day-7.html">Day 7: AWS Services for DevOps</a> </h3>
-      <p> Today, I explored various AWS services that are essential for DevOps practices. Here's a summary of my experience:</p>
-      <a href="./logs/day-7.html">Read More</a>
-    </li>
-    <li>
-      <h3> <a href="./logs/day-6.html">Day 6: Git and GitHub</a> </h3>
-      <p> I dived into the world of version control with Git and GitHub. Here's a summary of what I learned:</p>
-      <a href="./logs/day-6.html">Read More</a>
-    </li>
-    
   </ul>
 </div>
 

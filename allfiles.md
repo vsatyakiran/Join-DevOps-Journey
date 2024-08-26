@@ -7,6 +7,9 @@ title: Archive
 
 <div class="archive-list">
   <ul>
+    <li><strong>Day 14:</strong> <a href="./logs/day-14.html">Self-hosted Runners in GitHub Actions</a></li>
+    <li><strong>Day 13:</strong> <a href="./logs/day-13.html">GitHub Actions</a></li>
+    <li><strong>Day 12:</strong> <a href="./logs/day-12.html">Continuous Integration and Continuous Deployment</a></li>
     <li><strong>Day 11:</strong> <a href="./logs/day-11.html">CI/CD Pipelines and Tools</a></li>
     <li><strong>Day 10:</strong> <a href="./logs/day-10.html">Infrastructure as Code with Terraform</a></li>
     <li><strong>Day 9:</strong> <a href="./logs/day-9.html">Config Management with Ansible</a></li>
