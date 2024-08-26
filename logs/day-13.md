@@ -59,7 +59,7 @@ Overall, GitHub Actions provides a powerful platform for automating CI/CD proces
 
 
 <div class="navigation">
-    <a href="./day-12.html">← GitHub Actions</a>
+    <a href="./day-12.html">← Jenkins</a>
   <a href="../allfiles.html">Back to Home</a>
   <a href="./day-14.html">GitHub Project</a>
 </div>
